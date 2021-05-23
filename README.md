@@ -13,4 +13,4 @@ A blazor Chart Library
 
 ## 5/23/2021 - Draw an SVG and Canvas
 
-By default the SVG is placed down below the the canvas, not on top of it.  Going to correct this using some z-layers and some positioning.
+By default the SVG is placed down below the the canvas, not on top of it.  Going to correct this using some z-layers, realtive positioning, and negative top.
