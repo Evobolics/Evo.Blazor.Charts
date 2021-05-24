@@ -54,5 +54,7 @@ http://jsfiddle.net/agconti/k9CFu/
 * https://observablehq.com/@d3/candlestick-chart
 * https://bl.ocks.org/tompiler/6045b80d2164077faaf96e0304531bba (Zoomable)
 
-
+## Type Parameters for Databinding
+* https://stackoverflow.com/questions/60393496/c-sharp-blazor-how-to-use-typeparam-in-code-behind-with-workaround
+* https://blazor-university.com/templating-components-with-renderfragements/using-typeparam-to-create-generic-components/
 
