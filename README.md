@@ -53,6 +53,7 @@ http://jsfiddle.net/agconti/k9CFu/
 * https://observablehq.com/@d3/line-chart
 * https://observablehq.com/@d3/candlestick-chart
 * https://bl.ocks.org/tompiler/6045b80d2164077faaf96e0304531bba (Zoomable)
+* https://observablehq.com/@d3/lets-make-a-bar-chart
 
 ## Type Parameters for Databinding
 * https://stackoverflow.com/questions/60393496/c-sharp-blazor-how-to-use-typeparam-in-code-behind-with-workaround
